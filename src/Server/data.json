@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "RAMESH",
+      "date": "2022-09-14",
+      "contact": "1234567890",
+      "email": "Ramesh@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "SURESH",
+      "date": "2022-09-10",
+      "contact": "1234567890",
+      "email": "Suresh@gmail.com",
+      "id": 2
+    }
+  ]
+}
